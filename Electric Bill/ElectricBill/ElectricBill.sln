@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElectricBill", "ElectricBill\ElectricBill.csproj", "{297ECC74-8257-4C92-9F77-7B4A03824E33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{297ECC74-8257-4C92-9F77-7B4A03824E33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{297ECC74-8257-4C92-9F77-7B4A03824E33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{297ECC74-8257-4C92-9F77-7B4A03824E33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{297ECC74-8257-4C92-9F77-7B4A03824E33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A690D501-3E07-45FD-9993-96D99014AFD2}
+	EndGlobalSection
+EndGlobal
